@@ -1,0 +1,43 @@
+.title {
+    color: green;
+}
+body {
+    color: white;
+    text-align: center;
+    background-color: rgb(153, 0, 0)
+}
+.act {
+    color: gray;
+    background-color: black;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+}
+#title {
+    background-image: url(https://wallpapers.com/images/hd/flag-of-puerto-rico-f4wn4b2gli27ej8s.jpg);
+    background-size: 100%;
+    height:280px;
+    width:500px;
+}
+a {
+    color: #ffffff;
+    line-height: 1.5em;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    display: block;
+    margin: 5px auto;
+    
+
+}
+ul {
+    list-style-type: square;
+     
+
+}
+h2 {
+    border: 5px solid black;
+    padding: 4px;
+    margin: 20px;
+
+}
